@@ -1,5 +1,7 @@
 # Tip Lite (BrightTipLite)
 
+> **This is the Lite version.** BrightTip Lite is built only with Light's official SDK, so it can go in the Light Tool Library. It does less than the full app. For the full app, get [BrightTip](https://github.com/gi-os/BrightTip) ([on BrightMarket](https://brightmarket.gzl.dev/app/com.gios.lighttip/)).
+
 A tip calculator for the Light Phone III, built as an official Light SDK tool. It is the
 Tool Library version of [BrightTip](https://github.com/gi-os/BrightTip), cut down to the
 Tip mode and nothing else. It shows up on the phone as **BrightTip Lite**
